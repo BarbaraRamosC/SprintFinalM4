@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module SprintFinalModulo4 {
-}
